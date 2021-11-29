@@ -1,0 +1,37 @@
+RvmTranslator - Translate PDMS RVM to STEP, IGES, STL, etc.
+Copyright (C) 2015 to Current Year Shing Liu & SudoSky
+
+RvmTranslator is free software. If you think it is useful, 
+you can donate for the author.
+
+Thanks SudoSky for the binary RVM parsing.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Portions of this software:
+Open CASCADE Technology
+  Copyright (c) 1993-1999 Matra Datavision. All rights reserved.
+  Copyright (c) 1999-2016 by OPEN CASCADE S.A.S. All rights reserved.
+
+libharu
+  Copyright (C) 1999-2006 Takeshi Kanno
+  Copyright (C) 2007-2009 Antony Dovgal
+
+Disclaimer 
+AVEVA product names are trademarks or registered trademarks of 
+AVEVA Solutions Limited or its subsidiaries, registered in the 
+UK, Europe and other countries (worldwide). 
+
+The copyright, trade mark rights, or other intellectual property 
+rights in any other product, its name or logo belongs to its 
+respective owner. 
+
+
+Homepage:
+  http://www.cppblog.com/eryar/
+
+Feedback:
+   Shing Liu(eryar@163.com)
+   Song Yu(sudosky@gmail.com)

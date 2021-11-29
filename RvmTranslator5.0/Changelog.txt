@@ -1,0 +1,48 @@
+RvmTranslator ChangeLog
+=======================
+
+
+RvmTranslator5.0  [20160822]
+----------------
+1. Translate RVM to AutoCAD DXF file;
+
+
+RvmTranslator4.0 Beta  [20160314]
+----------------
+1.Translate RVM to 3D PDF inspired by Siddharth Manek;
+2.Only translate TEXT RVM for beta testing.
+
+
+RvmTranslator3.1  [20160314]
+----------------
+1.Fix a crash reported by Luca from Italy.
+  Thanks for the feedback by Luca.
+
+
+RvmTranslator3.0  [20151205]
+----------------
+1.Enable multiple RVM files translation;
+
+
+RvmTranslator2.2  [20151107]
+----------------
+1.Support 3D OBJ file export;
+
+
+RvmTranslator2.1  [20150818]
+----------------
+1. Improve performance for STEP translation;
+2. Finish parse all the primitive shapes in RVM file;
+
+
+RvmTranslator2.0  [20150504]
+----------------
+1. Thanks to SudoSky, RvmTranslator can parse binary RVM files.
+
+
+RvmTranslator1.0  [20150422]
+----------------
+RvmTranslator - Translate PDMS RVM to STEP, IGES, STL, etc.
+1. Standalone program to export PDMS model to STEP, IGES, STL .etc. by RVM file.
+2. The RvmTranslator only rely on RVM file, it has no relation with PDMS SP12.0 or SP12.1.
+3. The RvmTranslator only can parse ASCII text RVM files.
